@@ -76,4 +76,4 @@ The performance of the proposed method is compared with the state-of-the-art mod
 
 ## 7. Acknowledgement
 
-Thanks to [U-KAN](https://github.com/Zhaoyi-Yan/U-KAN) [CATANet]([https://github.com/Zhaoyi-Yan/U-KAN](https://github.com/EquationWalker/CATANet/tree/main))for their outstanding works.
+Thanks to [U-KAN](https://github.com/Zhaoyi-Yan/U-KAN) [CATANet]([[https://github.com/Zhaoyi-Yan/U-KAN])for their outstanding works.
